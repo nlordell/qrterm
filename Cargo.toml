@@ -1,0 +1,10 @@
+[package]
+name = "qrterm"
+version = "0.1.0"
+authors = ["Nicholas Rodrigues Lordello <nlordell@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+anyhow = "1.0.33"
+structopt = "0.3.20"
+qrcode = "0.12.0"
